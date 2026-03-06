@@ -22,12 +22,13 @@
 
 ## Projects
 
-| Project | Period | Description | Tech |
+| Project | Period | Description | Role |
 |--------|------|-------------|------|
-| **Eum** |  | 보행자 위험 요소를 고려한 안전 경로 추천 서비스 | React Native, FastAPI, PostGIS |
-| **Medigo** |  | 병원 이동 및 진료 동행 서비스 플랫폼 | React Native, Node.js, MySQL |
-| **InTheLab** |  | Bluetooth Beacon 기반 연구실 출입 및 출석 관리 시스템 | React Native, Raspberry Pi, Beacon |
-| **Yuseong Living Lab Project** |  | 지역 문제 해결을 위한 리빙랩 서비스 개발 프로젝트 | |
+| 현대오토에버 베리어프리 공모전 | 2025.05 | 초로기 치매 환자의 경제활동 지속과 사회 참여를 지원하는 인지 보조 기반 디지털 복지 아이디어 기획 | Hyundai Autoever |
+| EIUM |  | 보행자 위험 요소를 고려한 안전 경로 추천 지도 애플리케이션 | PM, Front-End |
+| Medigo |  | 병원 이동 및 진료 동행 서비스 플랫폼 | Figma, Front-End |
+| InTheLab |  | Bluetooth Beacon 기반 연구실 출입 및 출석 관리 시스템 | Front-End |
+| 온결 | 2025.03 ~ 2025.12 | 종량제 봉투 지급 효율화를 위한 유성구청 리빙랩 프로젝트 | |
 
 ---
 
@@ -35,24 +36,22 @@
 
 | Activity | Period | Description | Note |
 |---------|------|-------------|------|
-| Mobicom LAB. | 2024.02 ~ | 연구실 활동 및 프로젝트 참여 | 국립한밭대학교 Mobicom 연구실 |
-| ABC Mentoring Project |  | 멘토링 기반 프로젝트 수행 | |
-| Living Lab Project |  | 지역 문제 해결 리빙랩 프로젝트 수행 | 유성구청 |
-| Barrier-Free App Planning Project | 2025 | 접근성을 고려한 앱 기획 프로젝트 | 현대오토에버 |
-| Krafton Jungle Bootcamp |  | 개발 부트캠프 참여 및 프로젝트 수행 | |
-| NAVER Cloud Special Lecture (Basic / Advanced) |  | 클라우드 플랫폼 교육 과정 수료 | NAVER Cloud |
-| CloudSquare Internship |  | 클라우드 인프라 및 아키텍처 실습 | |
+| Mobicom LAB. | 2025.02 ~ | 국립한밭대학교 Mobicom 연구실 | Hanbat National University |
+| 크래프톤 정글 웹개발 집중캠프 | 2025.08.11 ~ 2025.08.22 | 웹 개발 집중 캠프 참여 및 팀 프로젝트 수행| Krafton Jungle |
+| NAVER Cloud Basic | 2025.11.3 ~ 2025.11.14 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud(최우수 수료생) |
+| NAVER Cloud Advanced | 2026.01.12 ~ 2026.01.23 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud |
+| CloudSquare Internship | 2026.01.26 ~ 2026.02.27 | 클라우드 인프라 및 아키텍처 실습 | CloudSquare |
 
 ---
 
 ## Awards
 
-| Award | Period | Description | Result |
+| Award | Period | Description | Award |
 |------|------|-------------|------|
-| Krafton Jungle Project |  | 프로젝트 결과물 평가 | Outstanding Project |
-| Precious SW Competition | 2025 | 소중한 SW 경진대회 참가 | Participation |
-| Public Data Utilization Contest |  | 공공데이터 활용 공모전 참가 | Participation |
-| Living Lab Competition |  | 리빙랩 경진대회 참가 | Participation |
+| Krafton Jungle Project | 2025.08.11 ~ 2025.08.22 | 2차 프로젝트 결과물 - TimeMate | 3등 |
+| 2025 소중한 SW/AI 경진대회 | 2025.05 ~ 2025.06 | AI 기반 외국인 노동자 권리 보호 및 계약서 지원 플랫폼 | 우수상 |
+| 공공데이터 활용 공모전(소상공인시장진흥공단) | 2025.07 ~ 2025.05 | 소상공인의 데이터 기반 상권 분석과 전략 수립을 지원 플랫폼 | 대상 |
+| 대전광역시 유성구청 리빙랩 | 2025.03 ~ 2025.12 | 종량제 봉투 지급 효율화를 위한 유성구청 리빙랩 프로젝트 | 최우수상 |
 
 ---
 
@@ -60,8 +59,8 @@
 
 | Certification | Organization | Date |
 |--------------|-------------|------|
-| NCP (NAVER Cloud Platform Certification) | NAVER Cloud | |
-| NCA (NAVER Cloud Associate) | NAVER Cloud | |
+| NAVER Cloud Platform Certified Associate | NAVER Cloud | 2025.11.27 |
+| NAVER Cloud Platform Certified Professional | NAVER Cloud | 2026.01.30 |
 
 ---
 
