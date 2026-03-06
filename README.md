@@ -38,9 +38,9 @@
 |---------|------|-------------|------|
 | Mobicom LAB. | 2025.02 ~ | 국립한밭대학교 Mobicom 연구실 | Hanbat National University |
 | 크래프톤 정글 웹개발 집중캠프 | 2025.08.11 ~ 2025.08.22 | 웹 개발 집중 캠프 참여 및 팀 프로젝트 수행| Krafton Jungle |
-| NAVER Cloud Basic | 2025.11.3 ~ 2025.11.14 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud(최우수 수료생) |
-| NAVER Cloud Advanced | 2026.01.12 ~ 2026.01.23 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud |
-| CloudSquare Internship | 2026.01.26 ~ 2026.02.27 | 클라우드 인프라 및 아키텍처 실습 | CloudSquare |
+| 소중한 SW특강: 네이버클라우드 실무 2기(Associate) | 2025.11.3 ~ 2025.11.14 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud(최우수 수료생) |
+| 소중한 SW특강: 네이버클라우드 실무 3기(Professional) | 2026.01.12 ~ 2026.01.23 | 네이버클라우드 플랫폼 교육 과정 수료 | NAVER Cloud |
+| CloudSquare 인턴십 | 2026.01.26 ~ 2026.02.27 | MSP 클라우드 엔지니어 현장실습 | CloudSquare |
 
 ---
 
