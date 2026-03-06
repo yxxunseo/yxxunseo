@@ -25,7 +25,7 @@
 | Project | Period | Description | Role |
 |--------|------|-------------|------|
 | 현대오토에버 베리어프리 공모전 | 2025.05 | 초로기 치매 환자의 경제활동 지속과 사회 참여를 지원하는 인지 보조 기반 디지털 복지 아이디어 기획 | Hyundai Autoever |
-| EIUM |  | 보행자 위험 요소를 고려한 안전 경로 추천 지도 애플리케이션 | PM, Front-End |
+| IEUM |  | 보행자 위험 요소를 고려한 안전 경로 추천 지도 애플리케이션 | PM, Front-End |
 | Medigo |  | 병원 이동 및 진료 동행 서비스 플랫폼 | Figma, Front-End |
 | InTheLab |  | Bluetooth Beacon 기반 연구실 출입 및 출석 관리 시스템 | Front-End |
 | 온결 | 2025.03 ~ 2025.12 | 종량제 봉투 지급 효율화를 위한 유성구청 리빙랩 프로젝트 | |
