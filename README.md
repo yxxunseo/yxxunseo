@@ -34,7 +34,7 @@
 
 ## Activities
 
-| Activity | Period | Description | Note |
+| Activity | Period | Description | Organization |
 |---------|------|-------------|------|
 | Mobicom LAB. | 2025.02 ~ | 국립한밭대학교 Mobicom 연구실 | Hanbat National University |
 | 크래프톤 정글 웹개발 집중캠프 | 2025.08.11 ~ 2025.08.22 | 웹 개발 집중 캠프 참여 및 팀 프로젝트 수행| Krafton Jungle |
