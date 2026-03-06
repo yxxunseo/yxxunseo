@@ -21,7 +21,7 @@
 
 ---
 
-## Projects
+## 💻 Projects
 
 | Project | Period | Description | Organization |
 |:------:|:------:|:-------------:|:------:|
@@ -35,7 +35,7 @@
 
 ---
 
-## Activities
+## 🚀 Activities
 
 | Activity | Period | Description | Organization |
 |:------:|:------:|:-------------:|:------:|
@@ -47,7 +47,7 @@
 
 ---
 
-## Awards
+## 🏆 Awards
 
 | Award | Period | Description | Result |
 |:------:|:------:|:-------------:|:------:|
@@ -58,7 +58,7 @@
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Date | Organization |
 |:-------------:|:-------------:|:------:|
@@ -67,7 +67,7 @@
 
 ---
 
-## Contact
+## 📫 Contact
 
 <a href="https://velog.io/@yxxunseo/posts">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
