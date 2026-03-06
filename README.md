@@ -59,11 +59,10 @@
 
 ## Certifications
 
-| Certification | Organization | Date |
+| Certification | Date| Organization  |
 |--------------|-------------|------|
-| NAVER Cloud Platform Certified Associate | NAVER Cloud | 2025.11.27 |
-| NAVER Cloud Platform Certified Professional | NAVER Cloud | 2026.01.30 |
-
+| NAVER Cloud Platform Certified Associate | 2025.11.27  | NAVER Cloud |
+| NAVER Cloud Platform Certified Professional | 2026.01.30 | NAVER Cloud |
 ---
 
 ## Contact
