@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:9b3b3b,100:861313&height=180&text=Yunseo%20Kang&animation=fadeIn&fontColor=fdf2f9&fontSize=50"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d8570&height=180&text=Yunseo%20Kang&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
 
 ---
 
